@@ -15,4 +15,3 @@
 ## 👨🏫 ESCOLA
 
 * [Glossário](https://app.gitbook.com/s/tl9s8cvTdajUCrjDAU6H/)
-* [FAQs](https://app.gitbook.com/s/RmniJnUuupM9duybLjGr/)
