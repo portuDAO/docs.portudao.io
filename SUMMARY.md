@@ -1,14 +1,17 @@
 # Table of contents
 
-* [📖 Toda a Documentação](README.md)
+* [Documentação da portuDAO](README.md)
 
-## 🆔 Apresentação
+## Apresentação
 
 * [Sobre](apresentacao/sobre.md)
 * [Missão](apresentacao/missao.md)
-* [Ferramentas para Membros](https://app.gitbook.com/s/cDZa5sa7e8kbYfIjQAJQ/)
 
-## 👨💻 Engenharia
+## Ferramentas para Membros
+
+* [Falamos no Telegram](ferramentas-para-membros/falamos-no-telegram.md)
+
+## Engenharia
 
 * [Documentos técnicos](engenharia/documentos-tecnicos.md)
 
