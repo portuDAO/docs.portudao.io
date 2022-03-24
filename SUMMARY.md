@@ -9,7 +9,8 @@
 
 ## Ferramentas para Membros
 
-* [Falamos no Telegram](ferramentas-para-membros/falamos-no-telegram.md)
+* [Falamos no Telegram](ferramentas-para-membros/falamos-no-telegram/README.md)
+  * [Grupo portuDAO (geral)](ferramentas-para-membros/falamos-no-telegram/grupo-portudao-geral.md)
 
 ## Engenharia e Segurança
 
