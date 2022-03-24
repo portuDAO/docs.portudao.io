@@ -6,16 +6,16 @@ A plataforma Telegram foi a escolhida para esta fase de desenvolvimento da DAO.
 
 É no Telegram que temos vários grupos de discussão e interacção por texto, audio e vídeo para os membros da DAO, simpatizantes e seguidores.
 
-{% content-ref url="ferramentas-para-membros/falamos-no-telegram/grupo-portudao-geral.md" %}
-[grupo-portudao-geral.md](ferramentas-para-membros/falamos-no-telegram/grupo-portudao-geral.md)
+{% content-ref url="grupo-portudao-geral.md" %}
+[grupo-portudao-geral.md](grupo-portudao-geral.md)
 {% endcontent-ref %}
 
-{% content-ref url="ferramentas-para-membros/falamos-no-telegram/canal-portudao-anuncios.md" %}
-[canal-portudao-anuncios.md](ferramentas-para-membros/falamos-no-telegram/canal-portudao-anuncios.md)
+{% content-ref url="canal-portudao-anuncios.md" %}
+[canal-portudao-anuncios.md](canal-portudao-anuncios.md)
 {% endcontent-ref %}
 
-{% content-ref url="ferramentas-para-membros/falamos-no-telegram/grupos-especializados.md" %}
-[grupos-especializados.md](ferramentas-para-membros/falamos-no-telegram/grupos-especializados.md)
+{% content-ref url="grupos-especializados.md" %}
+[grupos-especializados.md](grupos-especializados.md)
 {% endcontent-ref %}
 
 ## Resumo dos grupos no Telegram
