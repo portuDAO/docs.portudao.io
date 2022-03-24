@@ -11,10 +11,10 @@
 
 * [Falamos no Telegram](ferramentas-para-membros/falamos-no-telegram.md)
 
-## Engenharia
+## Engenharia e Segurança
 
-* [Documentos técnicos](engenharia/documentos-tecnicos.md)
+* [Documentos técnicos](engenharia-e-seguranca/documentos-tecnicos.md)
 
-## 👨🏫 ESCOLA
+## ESCOLA e FAQs
 
 * [Glossário](https://app.gitbook.com/s/tl9s8cvTdajUCrjDAU6H/)
