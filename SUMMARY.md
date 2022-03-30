@@ -15,6 +15,7 @@
   * [Grupos especializados](ferramentas-para-membros/falamos-no-telegram/grupos-especializados.md)
 * [Grupos de Trabalho](ferramentas-para-membros/grupos-de-trabalho/README.md)
   * [Comunicação e Documentação](ferramentas-para-membros/grupos-de-trabalho/comunicacao-e-documentacao.md)
+    * [Política de gestão de documentos](ferramentas-para-membros/grupos-de-trabalho/politica-de-gestao-de-documentos.md)
   * [Design](ferramentas-para-membros/grupos-de-trabalho/design.md)
   * [Engenharia e Segurança](ferramentas-para-membros/grupos-de-trabalho/engenharia-e-seguranca.md)
   * [Escola e FAQs](ferramentas-para-membros/grupos-de-trabalho/escola-e-faqs.md)
