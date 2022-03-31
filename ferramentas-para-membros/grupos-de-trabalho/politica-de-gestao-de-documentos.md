@@ -32,6 +32,7 @@ A indicação da versão ajuda-nos a perceber facilmente o estágio de evoluçã
 **Comunicação:** peça de comunicação interna ou externa para divulgação.
 
 **Contrato:** smart contract ou documento com a inclusão de regras, regulamentos ou processos.
+
 **Legal:** informação legal, contratos juridícos ou outros documentos de igual valor.
 
 **Técnico:** documentação técnica, modelos funcionais ou equivalente.
