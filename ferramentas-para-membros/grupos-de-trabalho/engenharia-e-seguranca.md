@@ -20,4 +20,4 @@ Os ficheiros criados e utilizados por este grupo de trabalho encontram-se dispon
 
 ## Reuniões regulares
 
-As reuniões deste grupo de trabalho têm uma regularidade semanal, e normalmente acontecem às **quartas-feiras às 22:00** numa "chamada" no grupo Telegram.
+As reuniões deste grupo de trabalho têm uma regularidade semanal, e normalmente acontecem às **segundas-feiras às 22:00** (e às vezes às **terças-feiras às 21h30** com a equipa de Frontend) numa "chamada" no grupo Telegram.
