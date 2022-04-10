@@ -20,4 +20,4 @@ Os ficheiros criados e utilizados por este grupo de trabalho encontram-se dispon
 
 ## Reuniões regulares
 
-As reuniões deste grupo de trabalho têm uma regularidade semanal, e normalmente acontecem aos **domingos às 22:00** numa "chamada" no grupo Telegram.
+As reuniões deste grupo de trabalho têm uma regularidade semanal, e normalmente acontecem às **segundas-feiras às 22:00** numa "chamada" no grupo Telegram.
